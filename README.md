@@ -1,7 +1,6 @@
-<!-- Banner / GIF -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/38155cbf-1237-4801-9cad-bb23aa81c23c" alt="GIF" width="600"/>
-</p>
+<div align="center">
+  
+![210012254-234538ff-d198-48aa-8964-37e6fd45d227](https://github.com/user-attachments/assets/38155cbf-1237-4801-9cad-bb23aa81c23c)
 
 <!-- Intro -->
 <h1 align="center">Hi, I'm Sandesh 👋</h1>
