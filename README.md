@@ -12,11 +12,11 @@
 ---
 
 ## 🙋‍♂️ About Me
-
+<!--
 <p>
   <img align="right" src="https://github.com/sandesh282/sandesh282/blob/output/github-contribution-grid-snake.svg" alt="snake graph" width="400"/>
 </p>
-
+-->
 - 💻 Passionate **App Developer** and **Problem Solver**, exploring **ML** and **backend systems** (web).  
 - 🌐 Looking for help in **Web3** and experimenting with decentralised tech.  
 - 🔥 I love shipping projects that connect creativity with engineering.  
