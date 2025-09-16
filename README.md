@@ -7,10 +7,13 @@
 <h3 align="center">🚀 App Developer | SwiftUI | iOS & Beyond</h3>
 <h4 align="center">⚡ Building apps that blend design, performance, and innovation ⚡</h4>
 
+</div>
+
 ---
+
 ## 🙋‍♂️ About Me
 
-<p align="center">
+<p>
   <img align="right" src="https://github.com/sandesh282/sandesh282/blob/output/github-contribution-grid-snake.svg" alt="snake graph" width="400"/>
 </p>
 
@@ -21,12 +24,9 @@
 
 ---
 
----
 ## 🚀 My Tech Stack
 *Here are some of the technologies and tools I love to work with:*
 
-<p align="center">
-  
 <table>
 <tr>
   <td align="center" width="200"><strong>🍎 Apple Ecosystem</strong></td>
@@ -87,8 +87,6 @@
   </td>
 </tr>
 </table>
-
-</p>
 
 ---
 
