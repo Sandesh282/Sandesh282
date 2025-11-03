@@ -109,20 +109,7 @@
 ---
 
 ## 🏆 Achievements & Badges
-<div style="position: relative; display: inline-block;">
-  <iframe
-    src="https://holopin.io/@sandesh282"
-    width="800"
-    height="400"
-    style="border: none; border-radius: 12px;">
-  </iframe>
-  <div style="
-    position: absolute;
-    top: 0; left: 0; width: 100%; height: 100%;
-    background: rgba(0, 255, 204, 0.08);
-    mix-blend-mode: color-burn;
-    border-radius: 12px;
-  "></div>
-</div>
+[![An image of @sandesh282's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sandesh282)](https://holopin.io/@sandesh282)
+
 
 
