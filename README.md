@@ -105,3 +105,11 @@
 - 🔭 Always experimenting with **new Apple frameworks** and clean app designs.  
 - 📝 Sharing my journey through **projects, hackathons, and builds**.  
 - 💡 Motto: *“Code is temporary, but impact is permanent.”*
+
+---
+
+## 🏆 Achievements & Badges
+
+[![An image of @sandesh282's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sandesh282)](https://holopin.io/@sandesh282)
+
+
