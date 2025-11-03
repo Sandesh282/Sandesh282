@@ -109,17 +109,20 @@
 ---
 
 ## 🏆 Achievements & Badges
-<div align="center">
-  <iframe 
+<div style="position: relative; display: inline-block;">
+  <iframe
     src="https://holopin.io/@sandesh282"
     width="800"
     height="400"
-    style="
-      border-radius: 16px;
-      border: 2px solid #00ffcc;
-      background: radial-gradient(circle at 20% 20%, #0a0a0a, #121212 60%);
-      box-shadow: 0 0 20px #00ffcc66;
-    ">
+    style="border: none; border-radius: 12px;">
   </iframe>
+  <div style="
+    position: absolute;
+    top: 0; left: 0; width: 100%; height: 100%;
+    background: rgba(0, 255, 204, 0.08);
+    mix-blend-mode: color-burn;
+    border-radius: 12px;
+  "></div>
 </div>
+
 
