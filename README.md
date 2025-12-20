@@ -1,115 +1,101 @@
 <div align="center">
-  
-![210012254-234538ff-d198-48aa-8964-37e6fd45d227](https://github.com/user-attachments/assets/38155cbf-1237-4801-9cad-bb23aa81c23c)
 
-<!-- Intro -->
-<h1 align="center">Hi, I'm Sandesh 👋</h1>
-<h3 align="center">🚀 App Developer | SwiftUI | iOS & Beyond</h3>
-<h4 align="center">⚡ Building apps that blend design, performance, and innovation ⚡</h4>
+<img src="https://github.com/user-attachments/assets/38155cbf-1237-4801-9cad-bb23aa81c23c" />
+
+<h1>Hi, I'm Sandesh 👋</h1>
+<h3>Native App Developer</h3>
+<p>Building reliable, user-facing systems with strong platform fundamentals</p>
 
 </div>
 
 ---
 
-## 🙋‍♂️ About Me
+## 👨‍💻 About Me
 
-<!-- <p>
-  <img align="right" src="https://github.com/sandesh282/sandesh282/blob/output/github-contribution-grid-snake.svg" alt="snake graph" width="400"/>
-</p> -->
-- 💻 Passionate **App Developer** and **Problem Solver**, exploring **ML** and **backend systems** (web).  
-- 🌐 Looking for help in **Web3** and experimenting with decentralised tech.  
-- 🔥 I love shipping projects that connect creativity with engineering.  
-- 😅 **Fun fact:** I can sleep at 3 AM and *still* wake up at 8 like nothing happened.  
+- CS undergraduate working across **native mobile (iOS & Android)** and **backend systems**
+- Strong focus on **platform-level mobile engineering**
+- Looking for help in **Web3** and experimenting with decentralised tech.
+- Interested in **consumer-scale products**, performance, and clean architecture
 
 ---
-
-## 🚀 My Tech Stack
-*Here are some of the technologies and tools I love to work with:*
+## 🧩 Tech Stack
 
 <table>
+
 <tr>
-  <td align="center" width="200"><strong>🍎 Apple Ecosystem</strong></td>
+  <td align="center"><strong>📱 Android</strong></td>
   <td>
-    <img src="https://img.shields.io/badge/SwiftUI-blue?style=for-the-badge&logo=swift&logoColor=white"/>
-    <img src="https://img.shields.io/badge/UIKit-lightgrey?style=for-the-badge&logo=apple&logoColor=black"/>
-    <img src="https://img.shields.io/badge/SceneKit-purple?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/SpriteKit-orange?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/ARKit-green?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Metal-darkblue?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Core_Animation-red?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Core_Graphics-teal?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Core_Image-pink?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Core_ML-brightgreen?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Vision-yellow?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/CloudKit-blue?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/MapKit-navy?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/CryptoKit-black?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Core_Data-orange?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Combine-purple?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Foundation-grey?style=for-the-badge"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" width="40"/>
   </td>
 </tr>
 
 <tr>
-  <td align="center"><strong>⚙️ Backend</strong></td>
+  <td align="center" width="220"><strong>📱 iOS</strong></td>
   <td>
-    <img src="https://img.shields.io/badge/Spring_Boot-green?style=for-the-badge&logo=springboot&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase"/>
-    <img src="https://img.shields.io/badge/Supabase-teal?style=for-the-badge&logo=supabase"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40"/>
+    <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="40"/>
+    <img src="https://developer.apple.com/assets/elements/icons/arkit/arkit-96x96_2x.png" width="40"/>
+    <img src="https://github.com/user-attachments/assets/abb00e06-1ca2-4d99-a211-8d90bfb8bf35" width="40"/>
+    <img src="https://developer.apple.com/assets/elements/icons/avfoundation/avfoundation-96x96_2x.png" width="40"/>
+  </td>
+</tr>
+
+<tr>
+  <td align="center"><strong>⚙️ Backend Systems</strong></td>
+  <td>
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
+    <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="40"/>
   </td>
 </tr>
 
 <tr>
   <td align="center"><strong>🗄️ Databases</strong></td>
   <td>
-    <img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
   </td>
 </tr>
 
 <tr>
-  <td align="center"><strong>☁️ DevOps & Cloud</strong></td>
+  <td align="center"><strong>☁️ Cloud & Tooling</strong></td>
   <td>
-    <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel"/>
-    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
-  </td>
-</tr>
-
-<tr>
-  <td align="center"><strong>🛠 Tools</strong></td>
-  <td>
-    <img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GitKraken-teal?style=for-the-badge&logo=gitkraken"/>
-    <img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman"/>
-    <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma"/>
+    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40"/>
+    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+    <img src="https://github.com/user-attachments/assets/76723fa9-b1cb-44a8-829a-d72564e42894" width="40" />
   </td>
 </tr>
 </table>
 
+## 🚀 Interests & Direction
+
+- Native mobile systems and platform-aware design
+- End-to-end ownership of user-facing features
+- Immersive AR experiences with ML integration
+- Performance, correctness, and scalable architecture
+
 ---
 
-## 🌍 Connect with Me
+## 🌍 Connect
+
 <p align="left">
 <a href="https://www.linkedin.com/in/sandesh282/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 <a href="mailto:sandeshac2@gmail.com">
-  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-## ✨ Cool Stuff
-- 🔭 Always experimenting with **new Apple frameworks** and clean app designs.  
-- 📝 Sharing my journey through **projects, hackathons, and builds**.  
-- 💡 Motto: *“Code is temporary, but impact is permanent.”*
+## 🏆 Badges
 
----
-
-## 🏆 Achievements & Badges
-[![An image of @sandesh282's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sandesh282)](https://holopin.io/@sandesh282)
-
-
-
+[![Holopin](https://holopin.me/sandesh282)](https://holopin.io/@sandesh282)
