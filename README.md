@@ -74,13 +74,6 @@
 </tr>
 </table>
 
-## 🚀 Interests & Direction
-
-- Native mobile systems and platform-aware design
-- End-to-end ownership of user-facing features
-- Immersive AR experiences with ML integration
-- Performance, correctness, and scalable architecture
-
 ---
 
 ## 🌍 Connect
