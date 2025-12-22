@@ -4,7 +4,6 @@
 
 <h1>Hi, I'm Sandesh 👋</h1>
 <h3>Native App Developer</h3>
-<p>Building reliable, user-facing systems with strong platform fundamentals</p>
 
 </div>
 
