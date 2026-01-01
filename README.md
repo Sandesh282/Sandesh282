@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-- CS undergraduate working across **native mobile (iOS & Android)** and **backend systems**
+- CS undergrad working across **native mobile (iOS & Android)** and **backend systems**
 - Strong focus on **platform-level mobile engineering**
 - Looking for help in **Web3** and experimenting with decentralised tech.
 - Interested in **consumer-scale products**, performance, and clean architecture
