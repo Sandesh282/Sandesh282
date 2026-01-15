@@ -5,6 +5,11 @@
 <h1>Hi, I'm Sandesh 👋</h1>
 <h3>Native App Developer</h3>
 
+<img 
+  draggable="false" 
+  style="width:150px;height:28px;" 
+  src="https://komarev.com/ghpvc/?username=nu11Orbit&style=for-the-badge&color=1C8C8C">
+
 </div>
 
 ---
