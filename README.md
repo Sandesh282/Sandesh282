@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="https://github.com/user-attachments/assets/38155cbf-1237-4801-9cad-bb23aa81c23c" />
 
 <h1>Hi, I'm Sandesh 👋</h1>
