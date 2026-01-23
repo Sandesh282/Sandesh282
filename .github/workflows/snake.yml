@@ -1,4 +1,6 @@
 name: Generate contribution snake
+permissions:
+  contents: write
 
 on:
   schedule:
