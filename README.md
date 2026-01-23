@@ -73,6 +73,20 @@
 </table>
 
 ---
+<div align="center">
+
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=sandesh282&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+  height="170"
+/>
+<img 
+  src="https://streak-stats.demolab.com?user=sandesh282&theme=tokyonight&hide_border=true&cache_seconds=86400" 
+  height="170"
+/>
+
+</div>
+
+---
 
 ## 🌍 Connect
 
