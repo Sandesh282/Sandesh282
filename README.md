@@ -104,12 +104,3 @@
 ## 🏆 Badges
 
 [![Holopin](https://holopin.me/sandesh282)](https://holopin.io/@sandesh282)
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/sandesh282/sandesh282/output/github-contribution-grid-snake-dark.svg" 
-    alt="GitHub contribution snake animation"
-  />
-</p>
