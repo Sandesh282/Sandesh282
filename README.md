@@ -79,7 +79,7 @@
   height="170"
 />
 <img 
-  src="https://nirzak-streak-stats.vercel.app/?user=sandesh282&theme=tokyonight&hide_border=true" 
+  src="https://nirzak-streak-stats.vercel.app/?user=sandesh282&theme=tokyonight&hide_border=true&count_private=true" 
   alt="Streak Stats" 
   height="170"
   />
