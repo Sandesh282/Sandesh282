@@ -1,14 +1,12 @@
 <div align="center">
 <img src="https://github.com/user-attachments/assets/38155cbf-1237-4801-9cad-bb23aa81c23c" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+There;I'm+Sandesh;Turning+coffee+into+commits&center=true&size=24&width=440&height=60" />
 
 </div>
 
 ---
 
-
 ## 👨‍💻 About Me
-
-<img align="right" src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Sandesh;Software+Developer;Turning+coffee+into+commits&size=24&width=450&height=120" />
 
 - CS undergrad working across **native mobile (iOS & Android)** and **backend systems**
 - Strong focus on **platform-level mobile engineering**
