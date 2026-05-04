@@ -1,19 +1,20 @@
 <div align="center">
 <img src="https://github.com/user-attachments/assets/38155cbf-1237-4801-9cad-bb23aa81c23c" />
 
-<h1>Hi, I'm Sandesh 👋</h1>
-<h3>Native App Developer</h3>
-
 </div>
 
 ---
 
+
 ## 👨‍💻 About Me
+
+<img align="right" src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Sandesh;Software+Developer;Turning+coffee+into+commits&size=24&width=450&height=120" />
 
 - CS undergrad working across **native mobile (iOS & Android)** and **backend systems**
 - Strong focus on **platform-level mobile engineering**
 - Looking for help in **Web3** and experimenting with decentralised tech.
-- Interested in **consumer-scale products**, performance, and clean architecture
+- Interested in **consumer-scale products**
+- Obsessed with **performance**, clean architecture, and systems thinking
 
 ## 🧩 Tech Stack
 
