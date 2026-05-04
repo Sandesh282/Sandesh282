@@ -15,7 +15,6 @@
 - Looking for help in **Web3** and experimenting with decentralised tech.
 - Interested in **consumer-scale products**, performance, and clean architecture
 
----
 ## 🧩 Tech Stack
 
 <table>
@@ -73,6 +72,7 @@
 </table>
 
 ---
+
 <div align="center">
 <img
   src="https://github-readme-stats-fast.vercel.app/api?username=sandesh282&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
@@ -99,7 +99,6 @@
 </a>
 </p>
 
----
 
 ## 🏆 Badges
 
