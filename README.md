@@ -2,7 +2,7 @@
 <img src="https://github.com/user-attachments/assets/38155cbf-1237-4801-9cad-bb23aa81c23c" />
   <br/>
   <br/>
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+There;I'm+Sandesh;Turning+coffee+into+commits&center=true&size=24&width=440&height=60" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+there!👋;I'm+Sandesh;Turning+coffee+into+commits&center=true&size=24&width=440&height=60" />
 </div>
 
 
