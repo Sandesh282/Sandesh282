@@ -3,7 +3,7 @@
   <br/>
   <br/>
   <br/>
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+there!👋;I'm+Sandesh;Turning+coffee+into+commits&center=true&size=24&width=440&height=60" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+there!👋;I'm+Sandesh;Turning+coffee+into+commits&center=true&size=24&width=440&height=60&duration=2700" />
 </div>
 
 
