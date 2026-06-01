@@ -26,6 +26,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg" width="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" width="40"/>
+    <img src="https://github.com/user-attachments/assets/c894eeed-f6fb-4477-87b2-99c5e941dec9" width="40"/>
   </td>
 </tr>
 
@@ -34,7 +35,6 @@
   <td>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40"/>
     <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="40"/>
     <img src="https://developer.apple.com/assets/elements/icons/arkit/arkit-96x96_2x.png" width="40"/>
     <img src="https://github.com/user-attachments/assets/abb00e06-1ca2-4d99-a211-8d90bfb8bf35" width="40"/>
     <img src="https://developer.apple.com/assets/elements/icons/avfoundation/avfoundation-96x96_2x.png" width="40"/>
