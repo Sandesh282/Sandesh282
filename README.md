@@ -9,66 +9,82 @@
 
 ## 👨‍💻 About Me
 
-- CS undergrad working across **native mobile (iOS & Android)** and **backend systems**
-- Strong focus on **platform-level mobile engineering**
-- Looking for help in **Web3** and experimenting with decentralised tech.
-- Interested in **consumer-scale products**
-- Obsessed with **performance**, clean architecture, and systems thinking
+- CS undergrad building **full-stack applications**, **backend services**, and **developer infrastructure**
+- Full-time open sourcerer
+- Interested in distributed systems, developer tooling, and solving engineering problems
+- Obsessed with performance, clean architecture, and systems thinking
 
 ## 🧩 Tech Stack
 
 <table>
+  <tr>
+    <td align="center" width="220">
+      <strong>💻 Languages</strong>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" alt="Java"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" alt="Kotlin"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40" alt="Swift"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" alt="SQL"/>
+    </td>
+  </tr>
 
-<tr>
-  <td align="center"><strong>📱 Android</strong></td>
-  <td>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg" width="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" width="40"/>
-    <img src="https://github.com/user-attachments/assets/c894eeed-f6fb-4477-87b2-99c5e941dec9" width="40"/>
-  </td>
-</tr>
+  <tr>
+    <td align="center">
+      <strong>📱 Mobile</strong>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40" alt="Android"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" alt="Kotlin"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg" width="40" alt="Jetpack Compose"/>
+      <img src="https://avatars.githubusercontent.com/u/82592?s=200&v=4" width="40" alt="Retrofit"/>
+      <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="40" alt="SwiftUI"/>
+    </td>
+  </tr>
 
-<tr>
-  <td align="center" width="220"><strong>📱 iOS</strong></td>
-  <td>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40"/>
-    <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="40"/>
-    <img src="https://developer.apple.com/assets/elements/icons/arkit/arkit-96x96_2x.png" width="40"/>
-    <img src="https://github.com/user-attachments/assets/abb00e06-1ca2-4d99-a211-8d90bfb8bf35" width="40"/>
-    <img src="https://developer.apple.com/assets/elements/icons/avfoundation/avfoundation-96x96_2x.png" width="40"/>
-  </td>
-</tr>
+  <tr>
+    <td align="center">
+      <strong>🌐 Frontend</strong>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" width="40" alt="Astro"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind CSS"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="40" alt="Vite"/>
+    </td>
+  </tr>
 
-<tr>
-  <td align="center"><strong>⚙️ Backend Systems</strong></td>
-  <td>
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
-    <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="40"/>
-  </td>
-</tr>
+  <tr>
+    <td align="center">
+      <strong>⚙️ Backend</strong>
+    </td>
+    <td>
+      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" alt="Spring Boot"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" alt="Express"/>
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" alt="Firebase"/>
+      <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="40" alt="Supabase"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
+    </td>
+  </tr>
 
-<tr>
-  <td align="center"><strong>🗄️ Databases</strong></td>
-  <td>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-  </td>
-</tr>
-
-<tr>
-  <td align="center"><strong>☁️ Cloud & Tooling</strong></td>
-  <td>
-    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40"/>
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40"/>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-    <img src="https://github.com/user-attachments/assets/76723fa9-b1cb-44a8-829a-d72564e42894" width="40" />
-  </td>
-</tr>
+  <tr>
+    <td align="center">
+      <strong>☁️ Infra & Tooling</strong>
+    </td>
+    <td>
+      <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" alt="Vercel"/>
+      <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" alt="Heroku"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" alt="Figma"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" alt="Google Cloud"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" alt="Postman"/>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -96,6 +112,9 @@
 </a>
 <a href="mailto:sandeshac2@gmail.com">
   <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://tinker2024.medium.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 </p>
 
