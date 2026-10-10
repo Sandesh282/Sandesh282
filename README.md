@@ -99,12 +99,6 @@
 </a>
 </p>
 
-<!-- TODO: Sandesh — improve this section later -->
-
-## 🏆 Badges
-
-[![Holopin](https://holopin.me/sandesh282)](https://holopin.io/@sandesh282)
-
 ## 🐍 Contribution Graph
 
 <p align="center">
