@@ -11,7 +11,7 @@
 
 - CS undergrad building **full-stack applications**, **backend services**, and **developer infrastructure**
 - Full-time open sourcerer
-- Interested in distributed systems, developer tooling, and solving engineering problems
+- Interested in distributed systems, developer tooling, and solving problems
 - Obsessed with performance, clean architecture, and systems thinking
 
 ## 🧩 Tech Stack
